@@ -1,0 +1,18 @@
+.navbar{
+    z-index: 2000;
+    
+}
+
+.bg-light{
+    background-color: #f8f9fa00 !important;
+}
+
+.nav-link{
+    color: #008ea4 !important;
+    font-size: 32px !important;
+}
+.navbar-expand-lg .navbar-collapse{
+    display: grid !important;
+    justify-content: end !important;
+
+}
